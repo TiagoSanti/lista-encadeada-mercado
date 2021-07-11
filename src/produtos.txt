@@ -1,0 +1,16 @@
+200
+Arroz T1
+10.5
+100
+100
+Pao baguete
+3.00
+30
+411
+Acucar T1
+3.15
+50
+310
+Sabao em Barra
+4.95
+120
