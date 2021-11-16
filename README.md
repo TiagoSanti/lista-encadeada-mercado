@@ -1,4 +1,4 @@
-# lista-encadeada-mercado
+# trab-prog2-lista-encadeada
 Implementação de listas encadeadas na simulação de caixa de mercado.
 
 ## Descrição
